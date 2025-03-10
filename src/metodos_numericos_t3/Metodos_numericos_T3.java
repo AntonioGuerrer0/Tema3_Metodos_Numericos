@@ -7,7 +7,7 @@ public class Metodos_numericos_T3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Ingrese el primer número: ");
+        System.out.print("Ingrese el primer número:");
         double num1 = scanner.nextDouble();
 
         System.out.print("Ingrese el operador (+, -, *, /): ");
